@@ -1,0 +1,46 @@
+{
+  "Products": [
+    {
+      "id": "44few8ghy",
+      "txtName": "anhpt",
+      "txtDetail": "qqqqqqqqqqqqqqq",
+      "txtPrice": "1111111111",
+      "txtPriceSale": "",
+      "txtLogo": "https://firebasestorage.googleapis.com/v0/b/upload-imager.appspot.com/o/images%2Fphoto-1534030347209-467a5b0ad3e6.jpg?alt=media&token=05e08e3c-b142-414e-b0d1-283143a1d13e",
+      "txtNumber": "111111",
+      "cateId": "p828yskjs",
+      "txtContent": "1111111111111111"
+    },
+    {
+      "id": "crhixdu7j",
+      "txtName": "ádasdsa",
+      "txtDetail": "edee",
+      "txtPrice": "111111111",
+      "txtPriceSale": "111111110",
+      "txtLogo": "https://firebasestorage.googleapis.com/v0/b/upload-imager.appspot.com/o/images%2Ft%E1%BA%A3i%20xu%E1%BB%91ng.jpg?alt=media&token=da60601d-a921-496e-9435-a9929ba2e805",
+      "txtNumber": "11111",
+      "cateId": "0ysglp70i",
+      "txtContent": "11111111ssssssssssss"
+    }
+  ],
+  "Category": [
+    {
+      "id": "0ysglp70i",
+      "name": "admin@gmail.com",
+      "detail": "eafada",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/upload-imager.appspot.com/o/images%2Ft%E1%BA%A3i%20xu%E1%BB%91ng.jpg?alt=media&token=118e72d4-e7a6-43ab-a1a0-96d99129c1c6"
+    },
+    {
+      "id": "p828yskjs",
+      "name": "Tuấn Anh Phan",
+      "detail": "1111111111111",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/upload-imager.appspot.com/o/images%2F101976272_719891765504862_7808473327597044640_n.jpg?alt=media&token=6bc20e61-9024-43b4-947b-c1216921f9a0"
+    },
+    {
+      "name": "jsabdjsakdjksadas",
+      "logo": "http://",
+      "detail": "danh mục",
+      "id": "mPhqAfv"
+    }
+  ]
+}
